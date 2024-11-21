@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 .ipynb_checkpoints
 __pycache__
-=======
-__pycache__
 .ipynb_checkpoints
->>>>>>> main
+.gitattributes
+*.csv
+*.txt
+*.json
